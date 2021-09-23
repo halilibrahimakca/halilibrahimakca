@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 # Merhaba, Ben Halil İbrahim AKCA! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimakca" alt="halilakca" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
+[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://twitter.com/halillakcaa)
+[![](https://img.shields.io/github/followers/cobanov?style=social)](https://github.com/halilibrahimakca)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCYX6X_7VqaId2YS806LAQog)
