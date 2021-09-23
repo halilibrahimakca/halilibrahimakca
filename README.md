@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # halilibrahimakca
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=halilibrahimakca&show_icons=true">
 
 # Merhaba, Ben Halil İbrahim AKCA! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimakca" alt="halilakca" /> </p>
