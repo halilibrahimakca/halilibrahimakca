@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=halilibrahimakca&show_icons=true">
 
 # Merhaba, Ben Halil İbrahim AKCA! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimakca" alt="halilakca" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=halilibrahimakca" alt="halilibrahimakca" /> </p>
 
 [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://twitter.com/halillakcaa)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://github.com/halilibrahimakca)
